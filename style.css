@@ -1,0 +1,33 @@
+html {
+    background-color: #64988A;
+    margin: 1060px 651px;
+}
+.Tutorial_Title {
+    margin: 50px 395px 601px;
+    font-size: 48px;
+    color: #294933;
+    font-family: "Irish Grover", sans-serif;
+    text-align: center;
+}
+.Tutorial_Subtitle{
+    margin: 32px 98px 173px 98px;
+    font-size: 24px;
+    color: black;
+    font-family: "JetBrains Mono", sans-serif;
+    text-align: top center;
+}
+.Tutorial_Desc{
+    margin: 154px 190px 497px 190px;
+    font-size: 20px;
+    text-align: top right;
+    color: black;
+    font-family: "JetBrains mono", sans-serif;
+}
+.button{
+    background-color: #446B56;
+    color: #294933;
+    text-align: center;
+    margin: 440px 442.5px 155px;
+    border: 6px;
+    padding: 6px 10px;
+}
